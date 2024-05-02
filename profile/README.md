@@ -6,6 +6,6 @@
   </p>
 
   <p align="center">
-    We aim to design and develop meaningful apps and services for our community, volunteers, and administration team in the ultimate goal of creating unique experiences for both our physical and online events.
+    We strive to design and develop meaningful apps and services for our community, volunteers, and administration team in the ultimate goal of creating unique experiences for both our physical and online events.
   </p>
 </p>
