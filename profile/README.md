@@ -16,7 +16,7 @@
   <h3>Public websites</h3>
   <ul>
     <li><a href="https://evenements.dapjl.org/" target="_blank">DAPJL Événements</a>: the registration platform and home for DAPJL events.</li>
-    <li><a href="https://rowinlive.dapjl.org/en" target="_blank">Rowin'live</a>: the streaming website for our 24h rowing world record which gathered thousands of viewers online on June 7th 2024.</li>
+    <li><a href="https://rowinlive.dapjl.org/en" target="_blank">Rowin'live</a>: the streaming website for our 24h rowing world record which gathered thousands of viewers online on June 7th 2024. Seen on the French public television.</li>
     <li><a href="https://balademotos2023.dapjl.org/" target="_blank">Landing page for our "Balade Motos 2023" biking event</a></li>
     <li>Websites for other past events.</li>
   </ul>
