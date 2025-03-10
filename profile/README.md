@@ -25,6 +25,7 @@
   <ul>
     <li>DAPJL cryptographically-secured event tickets</li>
     <li>Mobile ticket scanner application for iOS and Android devices</li>
+    <li>Event admission performance optimization</li>
     <li>Development of various utilities for internal use</li>
     <li>... and more!</li>
   </ul>
